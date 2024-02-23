@@ -13,6 +13,7 @@
   width:80%;
   max-width:1000px;
   height:60%;
+  min-height:400px;
   max-height:800px;
   margin:auto;
   position:relative;
@@ -37,7 +38,7 @@
     
     & button{
       background-color: transparent;
-      color:white;
+      /* color:white; */
       border:none;
       font-size: 1.5rem;
     }
