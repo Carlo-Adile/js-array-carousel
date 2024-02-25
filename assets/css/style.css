@@ -108,8 +108,7 @@
   max-width: 100%; 
   max-height: 20%; 
   object-fit: cover;
-  transform: scale(1.05);
-  overflow-x: visible;
+  transform: scale(1.03);
 }
 
 
@@ -120,8 +119,8 @@
   overflow: hidden;
 }
 
-.right-column{
+/* .right-column{
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
   overflow: hidden;
-}
+} */
